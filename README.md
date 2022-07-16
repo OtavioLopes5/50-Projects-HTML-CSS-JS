@@ -1,56 +1,56 @@
-#-50Projects-HTML-CSS-JS
--
-This-course-includes-50-mini-projects-in-HTML,-CSS-&-JavaScript-that-relate-to-the-DOM-(Document-Object-Model).-
+# 50Projects-HTML-CSS-JS
+ 
+This course includes 50 mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model). 
 
---mkdir 1-Expanding-Cards
---mkdir 2-Progress-Steps
---mkdir 3-Rotating-Navigation-Animation
---mkdir 4-Hidden-Search-Widget
---mkdir 5-Blurry-Loading
---mkdir 6-Scroll-Animation
---mkdir 7-Split-Landing-Page
---mkdir 8-Form-Wave
---mkdir 9-Sound-Board
---mkdir 10-Dad-Jokes
---mkdir 11-Event-Keycodes
---mkdir 12-Faq-Collapse
---mkdir 13-Random-Choice-Picker
---mkdir 14-Animated-Navigation
---mkdir 15-Incrementing-Counter
---mkdir 16-Drink-Water
---mkdir 17-Movie-App
---mkdir 18-Background-Slider
---mkdir 19-Theme-Clock
---mkdir 20-Button-Ripple-Effect
---mkdir 21-Drag-N-Drop
---mkdir 22-Drawing-App
---mkdir 23-Kinetic-Loader
---mkdir 24-Content-Placeholder
---mkdir 25-Sticky-Navbar
---mkdir 26-Double-Vertical-Slider
---mkdir 27-Toast-Notification
---mkdir 28-Github-Profiles
---mkdir 29-Double-Click-Heart
---mkdir 30-Auto-Text-Effect
---mkdir 31-Password-Generator
---mkdir 32-Good-Cheap-Fast
---mkdir 33-Notes-App
---mkdir 34-Animated-Countdown
---mkdir 35-Image-Carousel
---mkdir 36-Hoverboard
---mkdir 37-Pokedex
---mkdir 38-Mobile-Tab-Navigation
---mkdir 39-Password-Strength-Background
---mkdir 40-3d-Background-Boxes
---mkdir 41-Verify-Account-UI
---mkdir 42-Live-User-Filter
---mkdir 43-Feedback-UI-Design
---mkdir 44-Custom-Range-Slider
---mkdir 45-Netflix-Mobile-Navigation
---mkdir 46-Quiz-App
---mkdir 47-Testimonial-Box-Switcher
---mkdir 48-Random-Image-Feed
---mkdir 49-Todo-List
---mkdir 50-Insect-Catch-Game
+- 1º Expanding Cards
+- 2º Progress Steps
+- 3º Rotating Navigation Animation
+- 4º Hidden Search Widget
+- 5º Blurry Loading
+- 6º Scroll Animation
+- 7º Split Landing Page
+- 8º Form Wave
+- 9º Sound Board
+- 10º Dad Jokes
+- 11º Event Keycodes
+- 12º Faq Collapse
+- 13º Random Choice Picker
+- 14º Animated Navigation
+- 15º Incrementing Counter
+- 16º Drink Water
+- 17º Movie App
+- 18º Background Slider
+- 19º Theme Clock
+- 20º Button Ripple Effect
+- 21º Drag N Drop
+- 22º Drawing App
+- 23º Kinetic Loader
+- 24º Content Placeholder
+- 25º Sticky Navbar
+- 26º Double Vertical Slider
+- 27º Toast Notification
+- 28º Github Profiles
+- 29º Double Click Heart
+- 30º Auto Text Effect
+- 31º Password Generator
+- 32º Good Cheap Fast
+- 33º Notes App
+- 34º Animated Countdown
+- 35º Image Carousel
+- 36º Hoverboard
+- 37º Pokedex
+- 38º Mobile Tab Navigation
+- 39º Password Strength Background
+- 40º 3d Background Boxes
+- 41º Verify Account UI
+- 42º Live User Filter
+- 43º Feedback UI Design
+- 44º Custom Range Slider
+- 45º Netflix Mobile Navigation
+- 46º Quiz App
+- 47º Testimonial Box Switcher
+- 48º Random Image Feed
+- 49º Todo List
+- 50º Insect Catch Game
 
-Udemy-Course-=-50-Projects-In-50-Days---HTML,-CSS-&-JavaScript-/-ByBrad-Traversy,-Florin-Pop
+Udemy Course = 50 Projects In 50 Days - HTML, CSS & JavaScript / ByBrad Traversy, Florin Pop
