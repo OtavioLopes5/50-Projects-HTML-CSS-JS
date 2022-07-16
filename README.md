@@ -2,15 +2,15 @@
  
 This course includes 50 mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model). 
 
-- 1º Expanding Cards
-- 2º Progress Steps
-- 3º Rotating Navigation Animation
-- 4º Hidden Search Widget
-- 5º Blurry Loading
-- 6º Scroll Animation
-- 7º Split Landing Page
-- 8º Form Wave
-- 9º Sound Board
+- 01º Expanding Cards
+- 02º Progress Steps
+- 03º Rotating Navigation Animation
+- 04º Hidden Search Widget
+- 05º Blurry Loading
+- 06º Scroll Animation
+- 07º Split Landing Page
+- 08º Form Wave
+- 09º Sound Board
 - 10º Dad Jokes
 - 11º Event Keycodes
 - 12º Faq Collapse
