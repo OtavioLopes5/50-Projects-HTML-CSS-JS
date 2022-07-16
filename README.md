@@ -1,2 +1,56 @@
-# 50Days-HTML-CSS-JS
- 
+#-50Projects-HTML-CSS-JS
+-
+This-course-includes-50-mini-projects-in-HTML,-CSS-&-JavaScript-that-relate-to-the-DOM-(Document-Object-Model).-
+
+--mkdir 1-Expanding-Cards
+--mkdir 2-Progress-Steps
+--mkdir 3-Rotating-Navigation-Animation
+--mkdir 4-Hidden-Search-Widget
+--mkdir 5-Blurry-Loading
+--mkdir 6-Scroll-Animation
+--mkdir 7-Split-Landing-Page
+--mkdir 8-Form-Wave
+--mkdir 9-Sound-Board
+--mkdir 10-Dad-Jokes
+--mkdir 11-Event-Keycodes
+--mkdir 12-Faq-Collapse
+--mkdir 13-Random-Choice-Picker
+--mkdir 14-Animated-Navigation
+--mkdir 15-Incrementing-Counter
+--mkdir 16-Drink-Water
+--mkdir 17-Movie-App
+--mkdir 18-Background-Slider
+--mkdir 19-Theme-Clock
+--mkdir 20-Button-Ripple-Effect
+--mkdir 21-Drag-N-Drop
+--mkdir 22-Drawing-App
+--mkdir 23-Kinetic-Loader
+--mkdir 24-Content-Placeholder
+--mkdir 25-Sticky-Navbar
+--mkdir 26-Double-Vertical-Slider
+--mkdir 27-Toast-Notification
+--mkdir 28-Github-Profiles
+--mkdir 29-Double-Click-Heart
+--mkdir 30-Auto-Text-Effect
+--mkdir 31-Password-Generator
+--mkdir 32-Good-Cheap-Fast
+--mkdir 33-Notes-App
+--mkdir 34-Animated-Countdown
+--mkdir 35-Image-Carousel
+--mkdir 36-Hoverboard
+--mkdir 37-Pokedex
+--mkdir 38-Mobile-Tab-Navigation
+--mkdir 39-Password-Strength-Background
+--mkdir 40-3d-Background-Boxes
+--mkdir 41-Verify-Account-UI
+--mkdir 42-Live-User-Filter
+--mkdir 43-Feedback-UI-Design
+--mkdir 44-Custom-Range-Slider
+--mkdir 45-Netflix-Mobile-Navigation
+--mkdir 46-Quiz-App
+--mkdir 47-Testimonial-Box-Switcher
+--mkdir 48-Random-Image-Feed
+--mkdir 49-Todo-List
+--mkdir 50-Insect-Catch-Game
+
+Udemy-Course-=-50-Projects-In-50-Days---HTML,-CSS-&-JavaScript-/-ByBrad-Traversy,-Florin-Pop
